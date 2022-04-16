@@ -14,3 +14,4 @@
                   编译出  server 是编译出可运行程序
   start.sh      --- 进行重新编译然后在端口80运行 server
 ## 最终效果：
+![B MEN6H%D`ZG`MJ6H1E}0NJ](https://user-images.githubusercontent.com/74131166/163678006-a46930dc-5987-4db2-aa44-5d7ad40922d2.png)
